@@ -1,0 +1,10 @@
+{
+    "default_if_unverified": "warn",
+    "block_severity_at_or_above": "high",
+    "require_exact_version": true,
+    "require_provenance": false,
+    "allowed_registries": [
+          "https://registry.npmjs.org",
+          "https://pypi.org"
+    ]
+}
